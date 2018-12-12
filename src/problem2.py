@@ -15,7 +15,7 @@ def main():
 def test_factor_sum():
     """ Tests the   factor_sum   function. """
     ###########################################################################
-    #  TODO: 2. Implement this TEST function, as follows:
+    #  done: 2. Implement this TEST function, as follows:
     #
     #    1. Read the  doc-string of the   factor_sum   function defined below.
     #
@@ -69,7 +69,7 @@ def test_factor_sum():
     actual = factor_sum(6)
     print('Expected', expected)
     print('Actual', actual)
-    
+
 
 def factor_sum(n):
     """
